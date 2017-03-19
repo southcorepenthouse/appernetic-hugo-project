@@ -141,4 +141,4 @@ paginate = 10
 [[menu.main]]
 	name = "The Location"
 	url  = "loaction/"
-	weight = 20
+	weight = 30
