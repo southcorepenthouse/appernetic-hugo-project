@@ -4,7 +4,6 @@ draft = true
 	[params.portfolio]
 		hide  = false
 		title = "The Penthouse"
-dadfasfdas
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
@@ -43,4 +42,4 @@ dadfasfdas
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 +++
-testest
+testest123
