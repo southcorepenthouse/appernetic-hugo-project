@@ -94,7 +94,8 @@ paginate = 10
 		content = "If you would like more information, we'd like to hear from you."
 
 		address = [
-			"Homelife New World Realty Inc",
+			"Terry Lam",
+    		"Homelife New World Realty",
 			"201 Consumers Road #205",
 			"Toronto Ontario M2J 4G8"
 		]
