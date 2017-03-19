@@ -24,7 +24,7 @@ paginate = 10
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "**PH3 at 10 Yonge St**<br> a 2 storey penthouse<br> in Toronto's South Core."
 		# The icons will be shown if you enter your username
