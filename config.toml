@@ -129,9 +129,14 @@ paginate = 10
 	weight = 0
 
 [[menu.main]]
-	name = "The Building"
+	name = "The Penthouse"
 	url  = "post/"
 	weight = 10
+
+[[menu.main]]
+	name = "The Building"
+	url  = "loaction/"
+	weight = 20
 
 [[menu.main]]
 	name = "The Location"
