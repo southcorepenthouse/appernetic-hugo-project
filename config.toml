@@ -39,7 +39,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Live at the top of Toronto"
-		content = "**Penthouse 3 at 10 Yonge St** is positioned between Toronto's financial district and waterfront. Steps from the Toronto's premier transit hub at Union Station, the Air Canada Centre, and St Lawrence Market."
+		content = "**Penthouse 3 at 10 Yonge St** is positioned between Toronto's financial district and waterfront. Steps from the Toronto's premier transit hub at Union Station, the Air Canada Centre, and St Lawrence Market. Inside a newly renovated world-class buidling. This is luxury living at its finest."
 
 
 	[params.portfolio]
