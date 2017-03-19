@@ -124,22 +124,18 @@ paginate = 10
 
 
 # Menu links that appear on the left sidebar
+
 [[menu.main]]
-	name = "Home"
+	name = "Penthouse"
 	url  = "/"
 	weight = 10
 
 [[menu.main]]
-	name = "Penthouse"
+	name = "Building"
 	url  = "post/"
 	weight = 20
 
 [[menu.main]]
-	name = "Building"
-	url  = "loaction/"
-	weight = 30
-
-[[menu.main]]
 	name = "Location"
 	url  = "loaction/"
-	weight = 40
+	weight = 30
