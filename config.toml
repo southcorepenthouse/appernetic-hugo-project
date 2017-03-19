@@ -92,7 +92,7 @@ paginate = 10
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "If you would like more information, we'd like to hear from you."
 
 		address = [
 			"Homelife New World Realty Inc",
