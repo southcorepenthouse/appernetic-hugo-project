@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: /%22/%22//sitemap.xml
