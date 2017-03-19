@@ -126,7 +126,7 @@ paginate = 10
 [[menu.main]]
 	name = "Home"
 	url  = "/"
-	weight = 0
+	weight = 20
 
 [[menu.main]]
 	name = "The Building"
@@ -136,4 +136,4 @@ paginate = 10
 [[menu.main]]
 	name = "The Location"
 	url  = "loaction/"
-	weight = 20
+	weight = 0
