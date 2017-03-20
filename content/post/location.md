@@ -3,7 +3,7 @@ date = "2017-03-24"
 menu = ""
 title = "The Location"
 +++
-At the centre of the city that's at the centre of Canada. <br>
+Located at the start of Canada's iconic Yonge Street. <br>At the centre of the city that's at the centre of Canada. <br>
 Work. Play. Live.
 
 **Transit & Infrastructure**
