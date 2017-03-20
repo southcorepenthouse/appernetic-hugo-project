@@ -9,7 +9,7 @@ Work. Play. Live.
 **Transit & Infrastructure**
 ---------------------------------
 
-World-class transportation:
+In the middle of all of the city's transportation:
 
  - Toronto's underground PATH system (2 min walk)
  - Queen's Quay underground TTC streetcar station (2 min walk)
