@@ -20,7 +20,7 @@ World-class transportation:
 **Play**
 ---------------------------------
 
-Steps away from:
+Steps away from entertainment venues, landmarks, and culture:
 
  - Air Canada Centre
  - Toronto's Waterfront
@@ -53,7 +53,7 @@ Whether you like to eat in or out:
 
 Close to work and school so you waste no time commuting:
 
- - Inside the South Core district
+ - South Core financial district  (2 min walk)
  - Toronto's PATH network (2 min walk)
  - Financial core of Toronto (10 min walk)
  - George Brown College - Waterfront Campus (10 min walk)
