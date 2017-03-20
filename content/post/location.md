@@ -34,14 +34,19 @@ Steps away from:
 **Food & Groceries**
 ---------------------------------
 
-Steps away from:
+Whether you like to eat in or out:
 
- - Air Canada Centre
- - Toronto's Waterfront
- - St Lawrence Market
- - Sony Centre for the Performing Arts
- - Sugar Beach
- - Ferry to the Toronto Islands (< 1 min walk)
+ - The Kitchen Table supermarket (< 1 min walk)
+ - LCBO
+ - Loblaws
+ - Longos at Maple Leaf Square
+ - Sobeys
+ - Real Sports Bar & Grill
+ - Miku Japanese Restaurant
+ - Harbour Sixty Restaurant
+ - The Firkin on Harbour
+ - The Miller Tavern
+ - The Fox on Bay
 
 **Work**
 ---------------------------------
