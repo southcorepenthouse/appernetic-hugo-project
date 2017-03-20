@@ -8,3 +8,4 @@ title = "The Building"
 image = "fulls/01.jpg"
 {{< img-post "title" "fulls/01.jpg" "Alt Text" "left" >}}
 ![Image of Yaktocat](fulls/01.jpg)
+![Image of Yaktocat]("fulls/01.jpg")
