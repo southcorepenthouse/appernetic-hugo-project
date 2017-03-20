@@ -19,6 +19,7 @@ All residents have access to world-class services which are included with their 
 
  - 24/ 7 concierge service
  - 24/ 7 security and monitoring service
+ - Complimentary parking for your guests
  - Movie screenings and fitness classes (some classes may require   
    additional fees):
 
