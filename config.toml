@@ -52,7 +52,7 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Breathtaking views"
-			description = "One of the few floors in the building with unobstructed views of the city"
+			description = "One of the few floors with unobstructed views of the city"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
