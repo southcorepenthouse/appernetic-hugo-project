@@ -58,7 +58,7 @@ paginate = 10
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "1070 square feet"
-			description = "Higher ceilings than lower floors in the building."
+			description = "Rare design with large amounts of space all for one bed"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
@@ -70,13 +70,13 @@ paginate = 10
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
 			title = "Open concept living"
-			description = "Lorem ipsum dolor sit amet."
+			description = "With ceilings soaring to 18 feet at certain points"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
 			title = "Contemporary design"
-			description = "Lorem ipsum dolor sit amet."
+			description = "With floor-to-ceiling windows spanning 2 storeys"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
