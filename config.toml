@@ -82,7 +82,7 @@ paginate = 10
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
 			title = "Contemporary design"
-			description = "Lorem ipsum dolor sit amet."
+			description = "Warm and inviting"
             
         [[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
