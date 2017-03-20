@@ -1,6 +1,7 @@
 +++
 banner = "banners/placeholder.png"
 date = "2015-06-24T13:50:46+02:00"
+showthedate = false
 menu = ""
 title = "Creating a new theme"
 +++
