@@ -10,7 +10,7 @@ Read more about Toronto's South Core ("Soco"): [Wikipedia][1]
 **Transit & Infrastructure**
 ---------------------------------
 
-In the middle of all of the city's transportation:
+In the middle of the city's transportation:
 
  - Toronto's underground PATH system (2 min walk)
  - Queen's Quay underground TTC streetcar station (2 min walk)
