@@ -132,7 +132,7 @@ paginate = 10
 
 [[menu.main]]
 	name = "Building"
-	url  = "post/"
+	url  = "post/firstpost"
 	weight = 20
 
 [[menu.main]]
