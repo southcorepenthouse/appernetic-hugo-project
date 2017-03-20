@@ -28,6 +28,20 @@ Steps away from:
  - Sugar Beach
  - Ferry to the Toronto Islands (< 1 min walk)
 
+**Play**
+---------------------------------
+
+Steps away from:
+
+ - Air Canada Centre
+ - Toronto's Waterfront
+ - St Lawrence Market
+ - Sony Centre for the Performing Arts
+ - Sugar Beach
+ - Harbourfront Cultural Centre
+ - Purina PawsWay
+ - Ferry to the Toronto Islands (< 1 min walk)
+
 **Work**
 ---------------------------------
 
