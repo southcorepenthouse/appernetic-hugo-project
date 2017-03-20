@@ -16,7 +16,7 @@ World-class transportation:
  - Gardiner expressway on-ramp (< 1 min drive)
  - UP Express service to Pearson Airport (10 min walk)
 
-**Culture**
+**Play**
 ---------------------------------
 
 Steps away from:
@@ -25,15 +25,14 @@ Steps away from:
  - Toronto's Waterfront
  - St Lawrence Market
  - Sony Centre for the Performing Arts
- - UP Express service to Pearson Airport (10 min walk)
+ - Sugar Beach
+ - Ferry to the Toronto Islands (< 1 min walk)
 
-**Culture**
+**Work**
 ---------------------------------
 
 Steps away from:
 
- - Toronto's underground PATH system (2 min walk)
- - Queen's Quay underground TTC streetcar station (2 min walk)
- - Toronto's transit hub Union GO and subway station (8 min walk)
- - Gardiner expressway on-ramp (< 1 min drive)
- - UP Express service to Pearson Airport (10 min walk)
+ - Inside the South Core district
+ - Financial core of Toronto (10 min walk)
+ - Toronto's PATH network (2 min walk)
