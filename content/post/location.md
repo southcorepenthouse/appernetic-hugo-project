@@ -31,22 +31,25 @@ Steps away from entertainment venues, landmarks, and culture:
  - Purina PawsWay
  - Toronto Islands Ferry (< 1 min walk)
 
-**Food & Groceries**
+**Restaurants & Groceries**
 ---------------------------------
 
-Whether you like to eat in or out:
+Whether you like to eat in:
 
  - The Kitchen Table supermarket (< 1 min walk)
  - LCBO (3 min walk)
  - Loblaws (6 min walk)
  - Longos at Maple Leaf Square (7 min walk)
  - Sobeys (8 min walk)
- - Real Sports Bar & Grill (7 min walk)
- - Miku Japanese Restaurant  (3 min walk)
- - Harbour Sixty Steakhouse  (4 min walk)
+
+ Or eat out:
+
  - The Firkin on Harbour (<1 min walk)
  - The Miller Tavern (2 min walk)
  - The Fox on Bay (2 min walk)
+ - Miku Japanese Restaurant  (3 min walk)
+ - Harbour Sixty Steakhouse  (4 min walk)
+ - Real Sports Bar & Grill (7 min walk)
 
 **Work**
 ---------------------------------
