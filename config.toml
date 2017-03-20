@@ -51,12 +51,6 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Breathtaking views."
-			description = "One of the few floors in the building with unobstructed views of the city."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
 			title = "1070 square feet."
 			description = "Enough space to be a 2+1."
 
