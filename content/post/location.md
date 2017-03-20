@@ -22,13 +22,13 @@ World-class transportation:
 
 Steps away from entertainment venues, landmarks, and culture:
 
- - Air Canada Centre
- - Toronto's Waterfront
- - St Lawrence Market
- - Sony Centre for the Performing Arts
- - Sugar Beach
- - Harbourfront Cultural Centre
- - Purina PawsWay
+ - Air Canada Centre (4 min walk)
+ - Toronto's Waterfront (< 1 min walk)
+ - St Lawrence Market (11 min walk)
+ - Sony Centre for the Performing Arts (5 min walk)
+ - Sugar Beach (7 min walk)
+ - Harbourfront Cultural Centre (8 min walk)
+ - Purina PawsWay - Indoor dog park (11 min walk)
  - Toronto Islands Ferry (< 1 min walk)
 
 **Restaurants & Groceries**
