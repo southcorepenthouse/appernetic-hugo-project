@@ -3,7 +3,6 @@ date = "2017-03-24"
 menu = ""
 title = "The Building"
 +++
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
-We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
+Two sister towers of 38 and 27-storeys at 10 Yonge Street and 10 Queen's Quay share a 30,000 square foot recreation facility on three levels. Amenities include a two-level podium with retail and health facilities, indoor/outdoor swimming pools, gas barbecues, squash courts, and the beautiful 38th floor Skylounge party room.
 
-In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.
+image = "fulls/01.jpg"
