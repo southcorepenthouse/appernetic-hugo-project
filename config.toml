@@ -106,7 +106,7 @@ paginate = 10
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
 			title = "A home theater by night"
-			description = "With a hidden 100 inch project screen"
+			description = "With a hidden 100 inch projector screen"
 
         [[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
