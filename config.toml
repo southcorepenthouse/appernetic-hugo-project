@@ -111,14 +111,26 @@ paginate = 10
         [[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "With spaces to work"
-			description = "Plenty of space to work, relax, and enjoy"
+			title = "Fall asleep overlooking Toronto"
+			description = "With enough room for a king-sized bed"
 
         [[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
 			title = "Library nook"
 			description = "For books and other items"
+            
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "With spaces to work"
+			description = "Plenty of space to work, relax, and enjoy"
+                    
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Extra room"
+			description = "Secondary spaces for work, for those that work extra hard."
 
         [[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
@@ -131,13 +143,6 @@ paginate = 10
 			thumb = "thumbs/06.jpg"
 			title = "And a bathroom for yourselves"
 			description = "With both a shower and tub"            
-                    
-        [[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Extra room"
-			description = "Secondary spaces for work, for those that work extra hard."
-            
 
     [params.recentposts]
 		hide  = true
