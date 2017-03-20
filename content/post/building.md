@@ -15,7 +15,6 @@ Maintenance fees include:
 ------------
 
 All residents have access to world-class services which are included with their fees:
-
  - 24/7 concierge service
  - 24/7 security service
  - Movie screenings and fitness classes (some classes may require
