@@ -3,7 +3,37 @@ date = "2017-03-24"
 menu = ""
 title = "The Location"
 +++
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
-We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
+At the centre of the city that's at the centre of Canada.
+Work. Play. Live.
 
-In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.
+**Transit & Infrastructure**
+---------------------------------
+
+World-class transportation:
+ - Toronto's underground PATH system (2 min walk)
+ - Queen's Quay underground TTC streetcar station (2 min walk)
+ - Toronto's transit hub Union GO and subway station (8 min walk)
+ - Gardiner expressway on-ramp (< 1 min drive)
+ - UP Express service to Pearson Airport (10 min walk)
+
+**Culture**
+---------------------------------
+
+Steps away from:
+
+ - Air Canada Centre
+ - Toronto's Waterfront
+ - St Lawrence Market
+ - Sony Centre for the Performing Arts
+ - UP Express service to Pearson Airport (10 min walk)
+
+**Culture**
+---------------------------------
+
+Steps away from:
+
+ - Toronto's underground PATH system (2 min walk)
+ - Queen's Quay underground TTC streetcar station (2 min walk)
+ - Toronto's transit hub Union GO and subway station (8 min walk)
+ - Gardiner expressway on-ramp (< 1 min drive)
+ - UP Express service to Pearson Airport (10 min walk)
