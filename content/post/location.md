@@ -27,9 +27,11 @@ Steps away from:
  - St Lawrence Market
  - Sony Centre for the Performing Arts
  - Sugar Beach
+ - Harbourfront Cultural Centre
+ - Purina PawsWay
  - Ferry to the Toronto Islands (< 1 min walk)
 
-**Play**
+**Food & Groceries**
 ---------------------------------
 
 Steps away from:
@@ -39,8 +41,6 @@ Steps away from:
  - St Lawrence Market
  - Sony Centre for the Performing Arts
  - Sugar Beach
- - Harbourfront Cultural Centre
- - Purina PawsWay
  - Ferry to the Toronto Islands (< 1 min walk)
 
 **Work**
