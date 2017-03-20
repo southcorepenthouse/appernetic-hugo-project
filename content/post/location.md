@@ -37,16 +37,16 @@ Steps away from entertainment venues, landmarks, and culture:
 Whether you like to eat in or out:
 
  - The Kitchen Table supermarket (< 1 min walk)
- - LCBO
- - Loblaws
- - Longos at Maple Leaf Square
- - Sobeys
- - Real Sports Bar & Grill
- - Miku Japanese Restaurant
- - Harbour Sixty Restaurant
- - The Firkin on Harbour
- - The Miller Tavern
- - The Fox on Bay
+ - LCBO (3 min walk)
+ - Loblaws (6 min walk)
+ - Longos at Maple Leaf Square (7 min walk)
+ - Sobeys (8 min walk)
+ - Real Sports Bar & Grill (7 min walk)
+ - Miku Japanese Restaurant  (3 min walk)
+ - Harbour Sixty Steakhouse  (4 min walk)
+ - The Firkin on Harbour (<1 min walk)
+ - The Miller Tavern (2 min walk)
+ - The Fox on Bay (2 min walk)
 
 **Work**
 ---------------------------------
