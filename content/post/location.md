@@ -10,6 +10,7 @@ Work. Play. Live.
 ---------------------------------
 
 World-class transportation:
+
  - Toronto's underground PATH system (2 min walk)
  - Queen's Quay underground TTC streetcar station (2 min walk)
  - Toronto's transit hub Union GO and subway station (8 min walk)
