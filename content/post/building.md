@@ -9,7 +9,8 @@ title = "The Building"
 The unit includes an underground parking spot and a ## square foot storage unit.
 Maintenance fees include:
 
- - Hydro, gas, and water HD cable TV
+ - Hydro, gas, and water 
+ - HD cable TV
 
 **Services**
 ------------
