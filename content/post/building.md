@@ -7,8 +7,15 @@ title = "The Building"
 
  - Indoor pool
  - Outdoor pool
- - State of the art gym
- - Golf Simulator
+ - State-of-the-art fitness centre
+ - Golf simulator
  - Gas barbecues
-- 
- - the beautiful 38th floor Skylounge party room.
+ - Dance studio
+ - Squash courts
+ - Basketball court
+ - Internet lounge
+ - Movie theatre
+ - Billiards room
+ - Games room (ping pong, air hockey, and videogames)
+ - Children's playroom
+ - 38th floor Skylounge party room.
