@@ -29,7 +29,7 @@ Steps away from:
  - Sugar Beach
  - Harbourfront Cultural Centre
  - Purina PawsWay
- - Ferry to the Toronto Islands (< 1 min walk)
+ - Toronto Islands Ferry (< 1 min walk)
 
 **Food & Groceries**
 ---------------------------------
@@ -46,8 +46,9 @@ Steps away from:
 **Work**
 ---------------------------------
 
-Steps away from:
+Close to work and school so you waste no time commuting:
 
  - Inside the South Core district
- - Financial core of Toronto (10 min walk)
  - Toronto's PATH network (2 min walk)
+ - Financial core of Toronto (10 min walk)
+ - George Brown College - Waterfront Campus (10 min walk)
