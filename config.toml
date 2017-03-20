@@ -39,7 +39,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Live at the top of Toronto"
-		content = "**Penthouse 3 is perched on the 36th and 37th floors of at 10 Yonge St** is positioned between Toronto's financial district and waterfront. Steps from the Toronto's premier transit hub at Union Station, the Air Canada Centre, and St Lawrence Market. Inside a newly renovated world-class buidling. This is luxury living at its finest.        1070 square foot open concept loft        9 foot ceilings (one foot more than lower floors)        One of the few floors in the building with unobstructed views of the city        Contemporary design        "
+		content = "**Penthouse 3 is perched on the 36th and 37th floors of 10 Yonge Street with breathtaking views of Toronto's skyline.**                                  "
 
 
 	[params.portfolio]
@@ -51,25 +51,31 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Breathtaking views."
+			description = "One of the few floors in the building with unobstructed views of the city."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/01.jpg"
+			thumb = "thumbs/01.jpg"
+			title = "1070 square feet."
+			description = "Enough space to be a 2+1."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "9 foot ceilings."
+			description = "Higher ceilings than lower floors in the building."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
+			title = "Open concept living"
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
+			title = "Contemporary design."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
