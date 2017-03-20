@@ -93,26 +93,51 @@ paginate = 10
         [[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Great for entertaining"
-			description = "With an open kitchen and breakfast bar"
+			title = "Plenty of storage"
+			description = "Large walk-in closet and built-in storage"
 
         [[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Great for entertaining"
-			description = "With an open kitchen and breakfast bar"
+			title = "A den by day"
+			description = "With plenty of of sunglight for relaxing"
 
         [[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Great for entertaining"
-			description = "With an open kitchen and breakfast bar"
+			title = "A home theater by night"
+			description = "With a hidden 100 inch project screen"
 
         [[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Great for entertaining"
-			description = "With an open kitchen and breakfast bar"
+			title = "With spaces to work"
+			description = "Plenty of space to work, relax, and enjoy"
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Library nook"
+			description = "For books and other items"
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "A bathroom for guests"
+			description = "With a fair amount of space"
+            
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "And a bathroom for yourselves"
+			description = "With both a shower and tub"            
+                    
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Extra room"
+			description = "Secondary spaces for work, for those that work extra hard."
+            
 
     [params.recentposts]
 		hide  = true
