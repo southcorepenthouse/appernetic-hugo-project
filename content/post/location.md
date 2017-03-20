@@ -3,8 +3,9 @@ date = "2017-03-24"
 menu = ""
 title = "The Location"
 +++
-Located at the start of Canada's iconic Yonge Street. <br>At the centre of the city that's at the centre of Canada. <br>
+Located at the start of Canada's iconic Yonge Street. At the centre of the city that's at the centre of Canada. <br>
 Work. Play. Live.
+Read more about Toronto's South Core ("Soco"): [Wikipedia][1]
 
 **Transit & Infrastructure**
 ---------------------------------
@@ -60,3 +61,6 @@ Close to work and school so you waste no time commuting:
  - Toronto's PATH network (2 min walk)
  - Financial core of Toronto (10 min walk)
  - George Brown College - Waterfront Campus (10 min walk)
+
+
+  [1]: https://en.wikipedia.org/wiki/South_Core,_Toronto
