@@ -3,13 +3,17 @@ date = "2017-03-24"
 menu = ""
 title = "The Building"
 +++
-**Parking, Storage, & Utilities** 
+**Parking, Storage, & Utilities**
+---------------------------------
+
 The unit includes an underground parking spot and a ## square foot storage unit.
 Maintenance fees include:
  - Hydro, gas, and water
  - HD cable TV
 
-**Services** 
+**Services**
+------------
+
 All residents have access to world-class services which are included with their fees:
  - 24/7 concierge service
  - 24/7 security service
@@ -17,7 +21,9 @@ All residents have access to world-class services which are included with their 
 ![](http://res.cloudinary.com/dj68jte5c/image/upload/c_scale,w_650/v1489976273/World_Trade_-_Mar_2017-1_mf0dvq.png)
 ![](http://res.cloudinary.com/dj68jte5c/image/upload/c_scale,w_650/v1489976271/World_Trade_-_Mar_2017-2_nhbnyp.png)
 
-**Amenities** 
+**Amenities**
+-------------
+
 Two sister towers at 10 Yonge Street and 10 Queen's Quay share a 30,000 square foot recreation facility on three levels. Amenities include a two-level podium with retail and health facilities, including:
 
  - Indoor pool
