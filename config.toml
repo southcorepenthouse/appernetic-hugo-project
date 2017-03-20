@@ -89,7 +89,31 @@ paginate = 10
 			thumb = "thumbs/06.jpg"
 			title = "Great for entertaining"
 			description = "With an open kitchen and breakfast bar"
-	
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Great for entertaining"
+			description = "With an open kitchen and breakfast bar"
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Great for entertaining"
+			description = "With an open kitchen and breakfast bar"
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Great for entertaining"
+			description = "With an open kitchen and breakfast bar"
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Great for entertaining"
+			description = "With an open kitchen and breakfast bar"
+
     [params.recentposts]
 		hide  = true
 		title = "Recent blog posts"
