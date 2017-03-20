@@ -4,7 +4,7 @@ menu = ""
 title = "The Location"
 +++
 Located at the start of Canada's iconic Yonge Street. At the centre of the city that's at the centre of Canada. <br>
-Work. Play. Live.
+Work. Play. Live. <br>
 Read more about Toronto's South Core ("Soco"): [Wikipedia][1]
 
 **Transit & Infrastructure**
