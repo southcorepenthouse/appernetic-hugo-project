@@ -4,11 +4,11 @@ menu = ""
 title = "The Building"
 +++
 Two sister towers at 10 Yonge Street and 10 Queen's Quay share a 30,000 square foot recreation facility on three levels. Amenities include a two-level podium with retail and health facilities, including:
-dsa
 
- - sdf
- - dsf
- - dsf
- - List item
- - indoor/outdoor swimming pools   gas barbecues,      * squash  courts,
+ - Indoor pool
+ - Outdoor pool
+ - State of the art gym
+ - Golf Simulator
+ - Gas barbecues
+- 
  - the beautiful 38th floor Skylounge party room.
