@@ -42,6 +42,6 @@ Two sister towers at 10 Yonge Street and 10 Queen's Quay share a 30,000 square f
  - Internet lounge
  - Movie theatre
  - Billiards room
- - Games room (ping pong, air hockey, and videogames)
+ - Games room (ping pong, air hockey, and video games)
  - Children's playroom
  - 38th floor Skylounge party room.
