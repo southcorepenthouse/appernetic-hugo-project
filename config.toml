@@ -51,31 +51,31 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "1070 square feet."
-			description = "Enough space to be a 2+1."
+			title = "Breathtaking views"
+			description = "One of the few floors in the building with unobstructed views of the city"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "9 foot ceilings."
+			title = "1070 square feet"
 			description = "Higher ceilings than lower floors in the building."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Open concept living"
-			description = "Lorem ipsum dolor sit amet."
+			title = "9 foot ceilings"
+			description = "Higher ceilings than lower floors in the building"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Contemporary design."
+			title = "Open concept living"
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
+			title = "Contemporary design"
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
