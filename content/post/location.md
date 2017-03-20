@@ -29,6 +29,7 @@ Steps away from entertainment venues, landmarks, and culture:
  - Sony Centre for the Performing Arts (5 min walk)
  - Sugar Beach (7 min walk)
  - Harbourfront Cultural Centre (8 min walk)
+ - Natrel Skating Rink (9 min walk)
  - Purina PawsWay - Indoor dog park (11 min walk)
  - Toronto Islands Ferry (< 1 min walk)
 
