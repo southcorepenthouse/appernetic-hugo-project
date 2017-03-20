@@ -150,8 +150,8 @@ paginate = 10
         
 	[params.contact]
 		hide  = false
-		title = "Get In Touch"
-		content = "If you would like more information, we'd like to hear from you."
+		title = "Request more information"
+		content = "Please contact Terry Lam of Homelife New World Realty for more information on this unit."
 
 		address = [
 			"Terry Lam",
