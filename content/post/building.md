@@ -6,7 +6,7 @@ title = "The Building"
 **Parking, Storage, & Utilities**
 ---------------------------------
 
-The unit includes an underground parking spot and a ## square foot storage unit.
+Penthouse 3 includes an underground parking spot and a ## square foot storage unit.
 Maintenance fees include:
 
  - Hydro, gas, and water 
